@@ -1,2 +1,2 @@
-# img
-Images hosted in GitHub
+# Images
+Images hosted in GitHub at https://mtaylorlong.github.io/img/
